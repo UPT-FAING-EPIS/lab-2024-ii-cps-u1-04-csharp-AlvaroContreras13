@@ -1,0 +1,7 @@
+organization=alvarocontreras13
+projectKey=AlvaroContreras13_calidad
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.56697
+dashboardUrl=https://sonarcloud.io/dashboard?id=AlvaroContreras13_calidad
+ceTaskId=AZILBwRLTFNMIPbB5yXF
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZILBwRLTFNMIPbB5yXF

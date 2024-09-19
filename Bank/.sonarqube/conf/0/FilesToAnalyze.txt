@@ -1,0 +1,10 @@
+﻿C:\users\alvaro\desktop\1909\bank\Bank.WebApi\Models\BankAccount.cs
+C:\users\alvaro\desktop\1909\bank\Bank.WebApi\Program.cs
+C:\users\alvaro\desktop\1909\bank\Bank.WebApi\obj\Debug\net8.0\Bank.WebApi.GlobalUsings.g.cs
+C:\users\alvaro\desktop\1909\bank\Bank.WebApi\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+C:\users\alvaro\desktop\1909\bank\Bank.WebApi\obj\Debug\net8.0\Bank.WebApi.AssemblyInfo.cs
+C:\users\alvaro\desktop\1909\bank\Bank.WebApi\obj\Debug\net8.0\Bank.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\users\alvaro\desktop\1909\bank\Bank.WebApi\appsettings.Development.json
+C:\users\alvaro\desktop\1909\bank\Bank.WebApi\appsettings.json
+C:\users\alvaro\desktop\1909\bank\Bank.WebApi\Bank.WebApi.http
+C:\users\alvaro\desktop\1909\bank\Bank.WebApi\Properties\launchSettings.json
