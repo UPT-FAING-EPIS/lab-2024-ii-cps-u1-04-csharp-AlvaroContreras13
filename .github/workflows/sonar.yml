@@ -2,7 +2,7 @@ name: Sonar Continuos Integration
 env:
   DOTNET_VERSION: '8.x'                     # la versión de .NET
   SONAR_ORG: 'alvarocontreras13'                    # Nombre de la organización de sonar cloud
-  SONAR_PROJECT: 'APIBANK'        # Key ID del proyecto de sonar
+  SONAR_PROJECT: 'AlvaroContreras13_calidad'        # Key ID del proyecto de sonar
 on:
   push:
     branches: [ "main" ]
